@@ -1,7 +1,7 @@
 Charity integration/staging tree
 ================================
 
-http://www.charity.kim
+http://www.char.today
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018 Charity Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - retarget difficulty each block
 
 For more information, as well as an immediately useable, binary version of
-the Charity client sofware, see http://www.charity.kim.
+the Charity client sofware, see http://www.char.today.
 
 License
 -------
